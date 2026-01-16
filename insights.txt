@@ -1,0 +1,1 @@
+Using the Superstore dataset, I created pivot tables to analyze sales by category, region, and segment, calculated profit margins, added slicers for interactivity, visualized trends using pivot charts, and summarized key business insights.
